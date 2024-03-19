@@ -37,7 +37,7 @@ def set_background(main_bg):
          unsafe_allow_html=True
      )
 
-set_background(r'C:\Users\HP\Downloads\movie.jpg') 
+set_background('movie.jpg') 
 
 
 
@@ -46,9 +46,9 @@ set_background(r'C:\Users\HP\Downloads\movie.jpg')
 st.header('Movie Recommendation System')
 
 
-net_movies = pickle.load(open(r'C:\Users\HP\Desktop\DS\Amazon Recommender\random_movies.pkl', 'rb'))
+net_movies = pickle.load(open('random_movies.pkl', 'rb'))
 
-similarity = pickle.load(open(r'C:\Users\HP\Desktop\DS\Amazon Recommender\similarity.pkl', 'rb'))
+similarity = pickle.load(open('similarity.pkl', 'rb'))
 
 
 
