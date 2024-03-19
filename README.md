@@ -27,6 +27,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Feedback
 We welcome feedback and contributions! If you have any suggestions, issues, or feature requests, please create an issue or submit a pull request on GitHub.
 
----
 
-**Note:** This README provides an overview of the content-based movie recommendation system project, including its dataset, features, algorithms, usage guidelines, technologies used, and contributors. For detailed code implementation and experimentation, refer to the project's repository and associated documentation.
