@@ -1,0 +1,10 @@
+[theme]
+primaryColor="#272e50"
+backgroundColor="#40545c"
+secondaryBackgroundColor="#7b8d92"
+textColor="#f9f7f7"
+font="serif"
+
+
+[global]
+showWarningOnDirectExecution = true
